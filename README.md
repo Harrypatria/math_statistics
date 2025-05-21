@@ -61,8 +61,16 @@ Refer to `monte_carlo_tutorial.md` for detailed expected outputs. Results may va
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for suggestions, bug reports, or additional case studies.
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
+---
 
-## Contact
-For questions or feedback, open an issue on GitHub or contact the repository maintainer through GitHub.
+<div align="center">
+*Remember: Every expert was once a beginner. Your programming journey is unique, and we're here to support you every step of the way.*
+
+## 🌟 Support This Project
+**Follow me on GitHub**: [![GitHub Follow](https://img.shields.io/github/followers/Harrypatria?style=social)](https://github.com/Harrypatria?tab=followers)
+**Star this repository**: [![GitHub Star](https://img.shields.io/github/stars/Harrypatria/Basic-to-Advanced-Tutorial-of-Network-Analytics-with-NetworkX?style=social)](https://github.com/Harrypatria/Basic-to-Advanced-Tutorial-of-Network-Analytics-with-NetworkX/stargazers)
+**Connect on LinkedIn**: [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-patria/)
+
+Click the buttons above to show your support!
+
+</div>
